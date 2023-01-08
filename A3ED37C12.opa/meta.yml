@@ -1,0 +1,19 @@
+id: A3ED37C12
+title: Verses of Auspiciousness
+type: translation
+pechas:
+- I4B2BAC0C
+- I024938EE
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:07:56.934377
+  last_modified_at: 2023-01-04 12:07:56.934383
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4B2BAC0C/AEFE: '2894'
+  I024938EE/FC99: '2894'
